@@ -5,6 +5,7 @@ table inet mihomo {
 		type ipv4_addr
 		flags interval
 		elements = {
+			8.208.0.0-8.223.255.255,
 			1.0.1.0-1.0.3.255,
 			1.0.8.0-1.0.15.255,
 			1.0.32.0-1.0.63.255,
